@@ -1,30 +1,32 @@
-import image1_1 from './images/press-the-advantage.png'
-import image1_2 from './images/dash.png'
-import image1_3 from './images/combat-tactician.png'
+import image1_1 from './images/1-1.png'
+import image1_2 from './images/1-2.png'
+import image1_3 from './images/1-3.png'
 
-import image4_1 from './images/in-the-rhythm.png'
-import image4_2 from './images/the-bigger-they-are.png'
-import image4_3 from './images/master-assassin.png'
+import image4_1 from './images/4-1.png'
+import image4_2 from './images/4-2.png'
+import image4_3 from './images/4-3.png'
 
-import image7_1 from './images/quarterback.png'
-import image7_2 from './images/concussion-grenade.png'
-import image7_3 from './images/relentless-soldier.png'
+import image7_1 from './images/7-1.png'
+import image7_2 from './images/7-2.png'
+import image7_3 from './images/7-3.png'
 
-import image10_1 from './images/commandeer-odin-talent.png'
-import image10_2 from './images/drakken-laser-drill-talent.png'
+import image10_1 from './images/10-1.png'
+import image10_2 from './images/10-2.png'
 
-import image13_1 from './images/thats-the-stuff.png'
-import image13_2 from './images/neosteel-coating-talent.png'
-import image13_3 from './images/spray-n-pray.png'
+import image13_1 from './images/13-1.png'
+import image13_2 from './images/13-2.png'
+import image13_3 from './images/13-3.png'
 
-import image16_1 from './images/titan-grenade.png'
-import image16_2 from './images/lead-rain.png'
-import image16_3 from './images/armor-piercing-rounds.png'
+import image16_1 from './images/16-1.png'
+import image16_2 from './images/16-2.png'
+import image16_3 from './images/16-3.png'
 
-import image20_1 from './images/big-red-button.png'
-import image20_2 from './images/focusing-diodes.png'
-import image20_3 from './images/sizzlin-attacks.png'
-import image20_4 from './images/bob-and-weave.png'
+import image20_1 from './images/20-1.png'
+import image20_2 from './images/20-2.png'
+import image20_3 from './images/20-3.png'
+import image20_4 from './images/20-4.png'
+
+
 
 const lvl1 = [
     {
@@ -39,12 +41,12 @@ const lvl1 = [
         name: 'terceiro',
         image: image1_3,
     },
+    
 ]
 const lvl4 = [
     {
         name: 'primeiro',
         image: image4_1,
-        description: 'askldjlaksjdlaksjdlkajslkdjalskdjalksjdlasjdlkj',
     },
     {
         name: 'segundo',
@@ -54,8 +56,10 @@ const lvl4 = [
         name: 'terceiro',
         image: image4_3,
     },
+   
 ]
 const lvl7 = [
+    
     {
         name: 'primeiro',
         image: image7_1,
@@ -68,6 +72,7 @@ const lvl7 = [
         name: 'terceiro',
         image: image7_3,
     },
+    
 ]
 const lvl10 = [
     {
@@ -78,6 +83,7 @@ const lvl10 = [
         name: 'segundo',
         image: image10_2,
     },
+    
 ]
 const lvl13 = [
     {
@@ -92,6 +98,7 @@ const lvl13 = [
         name: 'terceiro',
         image: image13_3,
     },
+   
 ]
 const lvl16 = [
     {
@@ -106,6 +113,7 @@ const lvl16 = [
         name: 'terceiro',
         image: image16_3,
     },
+
 ]
 const lvl20 = [
     {
@@ -132,5 +140,5 @@ export default [
     lvl10,
     lvl13,
     lvl16,
-    lvl20,
+    lvl20
 ]
